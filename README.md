@@ -1,4 +1,4 @@
-Optomechanical LiFi Sensor [OLS]
+Optomechanical LiFi Sensor [OLS] 
 Open-source ambient field detection instrument 
 
 The OLS is a multi-channel spectrum analyser capable of detecting, decomposing, and mapping ambient [modulated] EMFs across optical, near-infrared, radio frequency, and power line domains. It uses LiFi as its data backhaul, keeping the instrument entirely within the optical domain and free from any RF licensing requirements. Go crazy! 
